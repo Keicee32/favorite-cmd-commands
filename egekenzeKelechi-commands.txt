@@ -1,0 +1,5 @@
+1) git add -n This command adds all the file in the working directory som it can be ready to be committed.
+
+2) git init - used to initialize git commands on local computer.
+
+3) git push - this sends your codes to Github for safekeeping incase your laptop gets damaged.
